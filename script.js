@@ -90,5 +90,5 @@ const languageDropDown = document.querySelector('#languageDropDown');
 const selectedOption = document.querySelector('#selectedOption');
 
 languageDropDown.addEventListener('change', () => {
-  selectedOption.textContent = languageDropDown.value;
+  selectedOption.textContent = quotationMarks[languageDropDown.value];
 });
