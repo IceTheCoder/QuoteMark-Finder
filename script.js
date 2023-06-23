@@ -1,4 +1,3 @@
-console.log("Hello, World!");
 const languageDropDown = document.querySelector('#languageDropDown');
 const selectedOption = document.querySelector('#selectedOption');
 
