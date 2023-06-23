@@ -1,7 +1,7 @@
-var dropdown = document.getElementById("myDropdown");
-var selectedOption = document.getElementById("selectedOption");
+console.log("Hello, World!");
+const languageDropDown = document.querySelector('#languageDropDown');
+const selectedOption = document.querySelector('#selectedOption');
 
-dropdown.addEventListener("change", function() {
-  var selectedValue = dropdown.options[dropdown.selectedIndex].value;
-  selectedOption.textContent = "Selected option: " + selectedValue;
+languageDropDown.addEventListener('change', () => {
+  selectedOption.textContent = languageDropDown.value;
 });
