@@ -1,5 +1,5 @@
 # QuoteMark-Finder
-Find quotes for a specific language.
+Find quotation marks for a specific language.
 
 Open index.html to run.
 
