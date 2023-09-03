@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+* {
+  font-family: 'Roboto', sans-serif;
+}
+
+.dropdown {
+  font-size: 100%;
+  border-radius: 5px;
+  background-color: white;
+  border-width: 1px;
+  border-color: black;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.select-language {
+  font-weight: bold;
+}
+
+.quotation {
+  font-size: 150%;
+}
+
+.link {
+  color: rgb(65, 105, 225);
+  transition: color 0.15s;
+}
+
+.link:hover {
+  color: rgb(255, 117, 24);
+  transition: color 0.15s;
+}

@@ -1,4 +1,5 @@
 const quotationMarks = {
+    'Select language': 'No language selected.',
     'Afrikaans': '“…”',
     'Albanian': '„…“',
     'Amharic': '«…»',
