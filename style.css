@@ -21,3 +21,13 @@
 .quotation {
   font-size: 150%;
 }
+
+.link {
+  color: rgb(65, 105, 225);
+  transition: color 0.15s;
+}
+
+.link:hover {
+  color: rgb(255, 117, 24);
+  transition: color 0.15s;
+}
