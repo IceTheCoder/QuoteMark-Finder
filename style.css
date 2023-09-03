@@ -6,4 +6,17 @@
 
 .dropdown {
   font-size: 100%;
+  border-radius: 5px;
+  background-color: white;
+  border-width: 1px;
+  border-color: black;
+  font-weight: bold;
+}
+
+.select-language {
+  font-weight: bold;
+}
+
+.quotation {
+  font-size: 150%;
 }
